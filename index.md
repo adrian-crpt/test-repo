@@ -1,5 +1,5 @@
 | Name | Symbol | Security Score | Address | Base Address | Decimals |
-|------|--------|-----------------|---------|-----------------|----------|
+| --- | --- | --- | --- | --- | --- |
 | Aviator | AVI | 97 | 0xd2bdaaf2b9cc6981fd273dcb7c04023bfbe0a7fe | 0x3203856eaC03d343f9d5245BA2F39861838A7B36 | 18 |
 | Code Token | CODE | 87 | 0x283344eea472f0fe04d6f722595a2fffefe1901a | 0x079037F827E8be58FFeD513D77D319319355EdC7 | 13 |
 | JD Vance | VANCE | 90 | 0x9b465aab9e8f325418f222c37de474b1bd38ded2 | 0xE92C5d1AE8b441481A12E1eD0697b52DF1090d76 | 9 |
